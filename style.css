@@ -1,0 +1,41 @@
+＊{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.header{
+  height:50px;
+  width:100%;
+  background-color:red;
+}
+.main-visual{
+  height:500px;
+  width:100%;
+  background-color:orange;
+}
+.main{
+  width:1400px;
+
+  display:flex;
+  justify-content:center;
+}
+.left{
+  height:1400px;
+  width:230px;
+  background-color:limegreen;
+}
+.center{
+  height:1400px;
+  width:500px;
+  background-color:green;
+}
+.right{
+  height:1400px;
+  width:230px;
+  background-color:limegreen;
+}
+.footer{
+  height:100px;
+  width:100%;
+  background-color:blue;
+}
